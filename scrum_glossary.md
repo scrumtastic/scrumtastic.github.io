@@ -1,3 +1,4 @@
+{% include nav.md %}
 # Glossary of Agile/Scrum terms
 
 
