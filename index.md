@@ -13,7 +13,7 @@ Scrumtasitic provides an easy route to using Scrum to build a successful team pr
 ## [Where Do I Start?](where-do-we-start.md)
 This section tell you how to get started with SCRUM.
 
-## [Scrum basics](https://github.com/scrumtastic/scrumtastic.github.io/blob/master/scrum-basics.md)
+## [Scrum Basics](scrum-basics.md)
 
 ## [Successful Projects](successful-projects.md)
 This section gives example of successful SCRUM projects.
