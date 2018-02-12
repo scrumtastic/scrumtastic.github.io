@@ -9,6 +9,6 @@ Unlike competitor issue-tracking tools like Jira and Basecamp, EBI SCRUMtastic t
 
 * Scrum
 
-## Where Do I Start?
+## [Where Do I Start?](where-do-we-start.md)
 
 ## What Works?
