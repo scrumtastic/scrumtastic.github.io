@@ -6,8 +6,4 @@
 - Enter it into JIRA
 ## 2. Setup a team and invite them
 - Invite the team to JIRA and Confluence
-## 3. Hold a Sprint Planning Meeting
-## 4. Run the Sprint (with daily SCRUM)
-## 5. Hold a Sprint Review
-## 6. Hold a Retropective
-## Goto 3.
+## 3. [Follow SCRUM BASICS](scrum-basics.md)
