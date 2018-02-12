@@ -2,8 +2,8 @@
 ## Why Scrumtastic
 
 Are you frustrated with academic development projects: 
-  - not progressing; 
-  - not responsive to users; 
+  - not progressing?
+  - not responsive to users? 
   - lack of effective communication within your team?
   
 Scrum could be the answer to your problems, but only if you can tailor to the specific needs of an academic environment.
@@ -19,5 +19,5 @@ A quick way into the essential rules of the Scrum methodology.
 ## [Successful Projects](successful-projects.md)
 This section gives example of successful SCRUM projects.
 
-## [Quick Terms](scrum_glossary.md)
-This gives a reference on the terms used in SCRUM.
+< [Quick Terms](scrum_glossary.md)>
+<This gives a reference on the terms used in SCRUM.>
