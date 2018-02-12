@@ -18,6 +18,5 @@ This section tell you how to get started with SCRUM.
 ## [Successful Projects](successful-projects.md)
 This section gives example of successful SCRUM projects.
 
-
 ## [Quick Terms](scrum_glossary.md)
 This gives a reference on the terms used in SCRUM.
