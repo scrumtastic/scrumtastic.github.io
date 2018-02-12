@@ -1,7 +1,10 @@
 
 ## Why Scrumtastic
 
-Are you frustrated with academic development projects: not progressing; not responsive to users; lack of effective communication within your team?
+Are you frustrated with academic development projects: 
+  - not progressing; 
+  - not responsive to users; 
+  - lack of effective communication within your team?
   
 Scrum could be the answer to your problems, but only if you can tailor to the specific needs of an academic environment.
 
