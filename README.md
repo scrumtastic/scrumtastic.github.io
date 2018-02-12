@@ -1,1 +1,1 @@
-# scrumtastic.github.io
+# scrumtastic
