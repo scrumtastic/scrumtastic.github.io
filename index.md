@@ -5,9 +5,7 @@ For EMBL-EBI service development teams, who need to organise their team tasks to
 
 Unlike competitor issue-tracking tools like Jira and Basecamp, EBI SCRUMtastic takes the burden of where to start or required additional SCRUM training, and provides a streamlined way to establish it in a successful and trustworthy way.
 
-## Quick Terms
-
-* Scrum
+## [Quick Terms](scrum_glossary.md)
 
 ## [Where Do I Start?](where-do-we-start.md)
 
