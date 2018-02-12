@@ -8,5 +8,6 @@ Unlike competitor issue-tracking tools like Jira and Basecamp, EBI SCRUMtastic t
 ## [Quick Terms](scrum_glossary.md)
 
 ## [Where Do I Start?](where-do-we-start.md)
+This section tell you how to get started with SCRUM.
 
 ## What Works?
