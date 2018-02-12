@@ -13,5 +13,3 @@ This section tell you how to get started with SCRUM.
 
 ## [Successful Projects](successful-projects.md)
 This section gives example of successful SCRUM projects.
-
-## What Works?
