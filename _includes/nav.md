@@ -1,1 +1,1 @@
-[Home](index) / [Where Do I Start?](where-do-we-start) / [Scrum basics](/scrum-basics) / [Successful Projects](successful-projects) / [Quick Terms](scrum_glossary) / [Learning More](learning_more) / [SCRUM Rollout Plan](scrum_rollout_plan)
+[Home](index) / [Where Do I Start?](where-do-we-start) / [Scrum Basics](/scrum-basics) / [Successful Projects](successful-projects) / [Quick Terms](scrum_glossary) / [Learning More](learning_more) / [SCRUM Rollout Plan](scrum_rollout_plan)
