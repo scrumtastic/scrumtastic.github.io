@@ -2,14 +2,14 @@
 
 # SCRUM Rollout Plan
 - Define and communicate the vision of HCA DCP Ingest
-- Define the responisibility of Product Owner and SCRUM Master in our project
-  - Particually round maintaining the _Backlog_
+- Define the responisibility of _Product Owner_ and _SCRUM Master_ in our project
+  - Particularly around responsibility for maintaining the _Backlog_
 - Agree our _Definition of Done_ for at a _User Story_ level
 - Involve users more to provide a faster feedback loops
-- Add story points to stories before adding to a _Sprint_
+- Add story points to _User Stories_ before adding to a _Sprint_
 - Hold a _Retrospective_ at the end of each _Sprint_
   - Review the definition of done at each _Retrospective_
-  - Ask and answer
+  - Ask and answer:
     - What's going well?
     - What could go better?
     - What puzzles you?
@@ -17,6 +17,10 @@
 - Continue _Daily Standups_ (everyday)
   - Review the _Sprint Backlog_ at every _Daily Standup_
   - Consider how we can ensure we have _Daily Standups_ even when there are 4-5pm calls
+  - Ask and answer:
+    - What have you done?
+    - What do you plan to do next?
+    - Are you blocked?
 - Hold a _Sprint Review_ at the end of each _Sprint_
   - Review the product
     - Determine what to demo on the Ingest call
