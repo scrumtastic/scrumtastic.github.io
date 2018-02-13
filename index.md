@@ -22,3 +22,6 @@ This section gives example of successful SCRUM projects.
 
 ## [Quick Terms](scrum_glossary.md)
 This gives a reference on the terms used in SCRUM.
+
+## [Learning More](learning_more.md)
+If you already have some familiarity with SCRUM here is somewhere to find out more.
