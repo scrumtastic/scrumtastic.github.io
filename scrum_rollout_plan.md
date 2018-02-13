@@ -1,6 +1,7 @@
 {% include nav.md %}
 
 # SCRUM Rollout Plan
+- Define and communicate the vision of HCA DCP Ingest
 - Define the responisibility of Product Owner and SCRUM Master in our project
 - Agree a definition of done for our User Stories
 - Involve users more to provide a faster feedback loops
