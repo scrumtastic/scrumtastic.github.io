@@ -1,3 +1,4 @@
+{% include nav.md %}
 
 ## Why Scrumtastic
 
